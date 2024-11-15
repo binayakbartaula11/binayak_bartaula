@@ -110,7 +110,7 @@ Books, movies, and TV shows fuel my creativity and help me recharge. I'm driven 
 - Docker and Kubernetes for DevOps
 - Cloud technologies like AWS & Google Cloud
 
-#### 🌈🎨💡 **Fun Fact🌿:**
+#### 🌈 **Fun Fact 🌿**
 As a curious explorer of the mind and the world 🌍📚, I’m a coder by day 💻, but a philosopher, poet, and psychology enthusiast by night 🌙. I dive into novels 📖 and philosophy 💭 to spark creativity and deepen my understanding of human behavior. With a love for poetry ✍️ and psychology 🧠, I blend insights from ethics ⚖️ and anthropology 🧳 to approach coding with empathy, perspective, and a touch of storytelling!
 
 # 📊 GitHub Stats:
