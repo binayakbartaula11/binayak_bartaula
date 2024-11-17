@@ -16,6 +16,7 @@ Hi, I'm Binayak Bartaula, an aspiring developer pursuing a bachelor's degree in 
 I draw energy and inspiration from books, cinematic masterpieces, and captivating TV shows, which offer a respite for reflection and a canvas for my imagination. The serenity of nature 🌿 stirs my soul, while the boundless wonders of the cosmos 🌌 awaken a deep curiosity. Cooking 🍳, for me, is an art form—an exploration of flavors and stories. Immersing myself in the timeless echoes of history 🏛️ and the vivid narratives of novels 📖 keeps my creativity alive and my perspective ever-expanding.
 
 💡 ***Curious and Resilient:***
+
 I’m curious to explore everything, often feeling an irresistible pull toward diving deep, even into chaos. Sometimes, I feel like I should break boundaries and ruin everything, but thankfully, my strong grounding in both intellect 🧠 and psychology 🧘‍♂️ helps me stay balanced and purposeful.
 
 ## 🌐 Socials:
