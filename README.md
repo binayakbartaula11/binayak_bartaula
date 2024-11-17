@@ -18,6 +18,7 @@ I draw energy and inspiration from books, cinematic masterpieces, and captivatin
 💡 ***Curious and Resilient:***
 
 I’m curious to explore everything, often feeling an irresistible pull toward diving deep, even into chaos. Sometimes, I feel like I should break boundaries and ruin everything, but thankfully, my strong grounding in both intellect 🧠 and psychology 🧘‍♂️ helps me stay balanced and purposeful.
+These passions and traits drive me to challenge myself, create meaning, and leave a positive impact wherever I go.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/binayakbartaula/) 
