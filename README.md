@@ -105,6 +105,8 @@ These passions and traits drive me to challenge myself, create meaning, and leav
 
 # 🧑‍💻 I'm currently learning:
 - Advanced React & Node.js
+- Full-Stack Web Development
+- Data Structures and Algorithms
 - Docker and Kubernetes for DevOps
 - Cloud technologies like AWS & Google Cloud
 
